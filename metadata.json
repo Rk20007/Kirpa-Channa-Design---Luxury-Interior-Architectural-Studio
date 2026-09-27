@@ -1,0 +1,6 @@
+{
+  "name": "Kirpa Channa Design - Luxury Interior & Architectural Studio",
+  "description": "Official showcase and design portal for Kirpa Channa Design, an award-winning multidisciplinary interior architecture and neuroarchitecture studio based in Tauru, NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
